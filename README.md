@@ -1,3 +1,8 @@
+# Note to self
+Don't delete this. This is used in the _you know_ project. 
+It have some modifications that makes the build possible in last version of rust
+
+
 # libmodbus
 
 > This crate was renamed to just *libmodbus*. Before version 1.0.0 the name of the crate was libmodbus-rs.
